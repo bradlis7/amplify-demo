@@ -1,0 +1,1 @@
+import{_ as t,v as n,x as o,t as r}from"./IgGCxFcB.js";const l={};function s(c,e){return r(),n("div",null,e[0]||(e[0]=[o("h1",null,"Amp Demo",-1),o("p",null,"Welcome to the demo",-1)]))}const m=t(l,[["render",s]]);export{m as default};
